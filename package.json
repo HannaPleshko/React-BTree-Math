@@ -10,8 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.8",
+    "@mantine/core": "^6.0.10",
+    "@mantine/hooks": "^6.0.10",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "sass": "^1.62.1"
   },
   "devDependencies": {
     "@types/react": "^18.0.28",

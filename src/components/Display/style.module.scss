@@ -1,0 +1,19 @@
+.display {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .input {
+        width: 70%;
+    }
+
+    button {
+        width: 25%;
+    }
+
+}
+
+.error-message {
+    color: red;
+    font-size: 12px;
+}
