@@ -1,4 +1,4 @@
-# React-Tree-Math
+# React-BTree-Math
 
 This is a simple calculator application built using React and the Binary Tree algorithm to evaluate mathematical expressions within a string.
 
